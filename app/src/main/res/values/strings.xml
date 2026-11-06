@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sổ khám thú cưng</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_pets">Thú cưng</string>
+    <string name="nav_community">Cộng đồng</string>
+    <string name="nav_more">Thêm</string>
+
+    <!-- Common -->
+    <string name="common_cancel">Hủy</string>
+    <string name="common_save">Lưu</string>
+    <string name="common_delete">Xóa</string>
+    <string name="common_edit">Sửa</string>
+    <string name="common_close">Đóng</string>
+    <string name="common_ok">OK</string>
+    <string name="common_confirm">Xác nhận</string>
+    <string name="common_add">Thêm</string>
+    <string name="common_optional">Không bắt buộc</string>
+    <string name="common_today">Hôm nay</string>
+    <string name="common_view_all">Xem tất cả</string>
+    <string name="common_error_name_required">Vui lòng nhập tên</string>
+    <string name="common_kg">%1$.1f kg</string>
+    <string name="select_date">Chọn ngày</string>
+    <string name="back">Quay lại</string>
+
+    <!-- Home -->
+    <string name="home_greeting">Xin chào 👋</string>
+    <string name="home_subtitle">Cùng chăm sóc những người bạn nhỏ</string>
+    <string name="home_my_pets">Thú cưng của bạn</string>
+    <string name="home_add_pet">Thêm thú cưng</string>
+    <string name="home_upcoming_title">Lịch sắp tới</string>
+    <string name="home_upcoming_subtitle">Tiêm phòng &amp; tẩy giun trong 30 ngày</string>
+    <string name="home_upcoming_empty">Chưa có lịch nào trong 30 ngày tới. Tuyệt vời!</string>
+    <string name="home_quick_actions">Tiện ích</string>
+    <string name="home_tips">Cẩm nang</string>
+    <string name="home_tips_sub">Dinh dưỡng &amp; bệnh</string>
+    <string name="home_quiz">Trắc nghiệm</string>
+    <string name="home_quiz_sub">Kiến thức chăm sóc</string>
+    <string name="home_clinics">Phòng khám</string>
+    <string name="home_clinics_sub">Tìm gần bạn</string>
+    <string name="home_scan">Quét QR</string>
+    <string name="home_scan_sub">Hồ sơ thú cưng</string>
+    <string name="home_empty_title">Chưa có thú cưng nào</string>
+    <string name="home_empty_body">Thêm hồ sơ đầu tiên để bắt đầu theo dõi sức khỏe và tiêm phòng.</string>
+    <string name="home_stat_pets">Thú cưng</string>
+    <string name="home_stat_due">Sắp tới</string>
+    <string name="home_stat_overdue">Quá hạn</string>
+
+    <!-- Pet -->
+    <string name="pet_list_title">Thú cưng</string>
+    <string name="pet_add_title">Thêm thú cưng</string>
+    <string name="pet_edit_title">Sửa hồ sơ</string>
+    <string name="pet_detail_title">Hồ sơ thú cưng</string>
+    <string name="pets_empty_title">Chưa có hồ sơ</string>
+    <string name="pets_empty_body">Thêm chó, mèo hoặc thú cưng khác để quản lý lịch tiêm và sức khỏe.</string>
+    <string name="pet_name">Tên thú cưng</string>
+    <string name="pet_species">Loài</string>
+    <string name="pet_breed">Giống</string>
+    <string name="pet_gender">Giới tính</string>
+    <string name="pet_birth_date">Ngày sinh</string>
+    <string name="pet_weight">Cân nặng (kg)</string>
+    <string name="pet_color">Màu lông</string>
+    <string name="pet_microchip">Số microchip</string>
+    <string name="pet_owner_name">Tên chủ nuôi</string>
+    <string name="pet_owner_phone">Số điện thoại</string>
+    <string name="pet_notes">Ghi chú</string>
+    <string name="pet_photo">Ảnh thú cưng</string>
+    <string name="pet_save">Lưu hồ sơ</string>
+    <string name="pet_delete">Xóa thú cưng</string>
+    <string name="pet_delete_confirm">Xóa hồ sơ này cùng toàn bộ lịch tiêm, bệnh án và cân nặng?</string>
+    <string name="pet_qr">Mã QR</string>
+    <string name="pet_share">Chia sẻ</string>
+    <string name="pet_owner">Chủ nuôi</string>
+    <string name="pet_info">Thông tin</string>
+    <string name="pet_vaccination_section">Tiêm phòng &amp; tẩy giun</string>
+    <string name="pet_medical_section">Bệnh án</string>
+    <string name="pet_weight_section">Cân nặng</string>
+    <string name="pet_no_vaccinations">Chưa có mũi tiêm nào</string>
+    <string name="pet_no_medical">Chưa có bệnh án</string>
+    <string name="pet_no_weights">Chưa có dữ liệu cân nặng</string>
+    <string name="pet_note_empty">Chưa có ghi chú</string>
+    <string name="pet_chip_format">Microchip: %1$s</string>
+    <string name="pet_photo_pick">Chọn ảnh</string>
+    <string name="pet_photo_remove">Xóa ảnh</string>
+    <string name="pet_saved">Đã lưu hồ sơ</string>
+    <string name="pet_deleted">Đã xóa thú cưng</string>
+    <string name="pet_view_detail">Xem hồ sơ</string>
+    <string name="pet_weight_latest">Cân nặng hiện tại</string>
+
+    <!-- Gender / age / status -->
+    <string name="gender_male">Đực</string>
+    <string name="gender_female">Cái</string>
+    <string name="gender_unknown">Chưa rõ</string>
+    <string name="species_dog">Chó</string>
+    <string name="species_cat">Mèo</string>
+    <string name="species_bird">Chim</string>
+    <string name="species_rabbit">Thỏ</string>
+    <string name="species_other">Khác</string>
+    <string name="age_unknown">Chưa rõ tuổi</string>
+    <string name="age_newborn">Dưới 1 tháng</string>
+    <string name="age_months">%1$d tháng tuổi</string>
+    <string name="age_years">%1$d tuổi</string>
+    <string name="age_years_months">%1$d tuổi %2$d tháng</string>
+    <string name="status_overdue">Quá hạn</string>
+    <string name="status_due_soon">Sắp tới</string>
+    <string name="status_upcoming">Đã lên lịch</string>
+    <string name="status_none">Không nhắc</string>
+    <string name="due_overdue_days">Quá %1$d ngày</string>
+    <string name="due_today">Hôm nay</string>
+    <string name="due_tomorrow">Ngày mai</string>
+    <string name="due_in_days">Còn %1$d ngày</string>
+    <string name="no_due_date">Không có ngày nhắc</string>
+
+    <!-- Vaccination -->
+    <string name="vaccinations_title">Tiêm phòng &amp; tẩy giun</string>
+    <string name="vaccination_add">Thêm mũi tiêm</string>
+    <string name="vaccination_edit">Sửa mũi tiêm</string>
+    <string name="vaccination_name">Tên vaccine / thuốc</string>
+    <string name="vaccination_kind">Loại</string>
+    <string name="kind_vaccine">Vaccine</string>
+    <string name="kind_dewormer">Tẩy giun</string>
+    <string name="vaccination_date">Ngày thực hiện</string>
+    <string name="vaccination_next_due">Ngày nhắc lại</string>
+    <string name="vaccination_clinic">Phòng khám</string>
+    <string name="vaccination_vet">Bác sĩ</string>
+    <string name="vaccination_note">Ghi chú</string>
+    <string name="vaccination_reminder">Nhắc nhở khi đến hạn</string>
+    <string name="vaccination_delete">Xóa mũi tiêm</string>
+    <string name="vaccination_saved">Đã lưu lịch tiêm</string>
+    <string name="vaccination_deleted">Đã xóa lịch tiêm</string>
+    <string name="vaccination_name_required">Vui lòng nhập tên vaccine</string>
+    <string name="vaccination_due_hint">Tự động tính: vaccine +12 tháng, tẩy giun +3 tháng</string>
+    <string name="vaccination_delete_confirm">Xóa mũi tiêm này khỏi hồ sơ?</string>
+    <string name="vaccination_preset">Gợi ý</string>
+    <string name="vaccination_empty">Chưa có lịch tiêm. Thêm mũi đầu tiên để app nhắc bạn đúng hạn.</string>
+    <string name="vaccination_reminder_off">Không nhắc</string>
+    <string name="vaccination_auto_due">Tự động tính ngày nhắc lại</string>
+
+    <!-- Medical -->
+    <string name="medical_title">Bệnh án</string>
+    <string name="medical_add">Thêm bệnh án</string>
+    <string name="medical_edit">Sửa bệnh án</string>
+    <string name="medical_date">Ngày khám</string>
+    <string name="medical_clinic">Phòng khám</string>
+    <string name="medical_vet">Bác sĩ</string>
+    <string name="medical_diagnosis">Chẩn đoán</string>
+    <string name="medical_prescription">Đơn thuốc / điều trị</string>
+    <string name="medical_note">Ghi chú</string>
+    <string name="medical_photo">Ảnh toa thuốc</string>
+    <string name="medical_photo_pick">Chọn ảnh toa thuốc</string>
+    <string name="medical_delete">Xóa bệnh án</string>
+    <string name="medical_saved">Đã lưu bệnh án</string>
+    <string name="medical_deleted">Đã xóa bệnh án</string>
+    <string name="medical_diagnosis_required">Vui lòng nhập chẩn đoán</string>
+    <string name="medical_delete_confirm">Xóa bệnh án này?</string>
+    <string name="medical_empty">Chưa có bệnh án. Lưu lại mỗi lần đi khám để theo dõi sức khỏe.</string>
+
+    <!-- Weight -->
+    <string name="weight_title">Cân nặng</string>
+    <string name="weight_add">Thêm cân nặng</string>
+    <string name="weight_value">Cân nặng (kg)</string>
+    <string name="weight_date">Ngày cân</string>
+    <string name="weight_note">Ghi chú</string>
+    <string name="weight_saved">Đã lưu cân nặng</string>
+    <string name="weight_deleted">Đã xóa</string>
+    <string name="weight_chart_empty">Thêm ít nhất 2 lần cân để xem biểu đồ tăng trưởng.</string>
+    <string name="weight_latest">Gần nhất</string>
+    <string name="weight_change">Thay đổi</string>
+    <string name="weight_delete_confirm">Xóa lần cân này?</string>
+    <string name="weight_invalid">Cân nặng không hợp lệ</string>
+    <string name="weight_empty">Chưa có dữ liệu cân nặng</string>
+    <string name="weight_range">%1$.1f – %2$.1f kg</string>
+
+    <!-- Community -->
+    <string name="community_title">Cộng đồng</string>
+    <string name="community_all">Tất cả</string>
+    <string name="community_write_post">Đăng bài</string>
+    <string name="community_post_hint">Chia sẻ khoảnh khắc hoặc câu hỏi của bạn…</string>
+    <string name="community_publish">Đăng</string>
+    <string name="community_empty">Chưa có bài viết. Hãy là người đầu tiên chia sẻ!</string>
+    <string name="community_likes">%1$d thích</string>
+    <string name="community_comments">%1$d bình luận</string>
+    <string name="community_offline">Đang dùng dữ liệu ngoại tuyến</string>
+    <string name="community_cloud">Đã kết nối Firebase</string>
+    <string name="community_pending">Đang chờ đồng bộ</string>
+    <string name="community_delete_confirm">Xóa bài viết này?</string>
+    <string name="community_tag">Chủ đề</string>
+    <string name="community_pet_name">Tên thú cưng</string>
+    <string name="community_image">Ảnh đính kèm</string>
+    <string name="community_pick_image">Chọn ảnh</string>
+    <string name="community_comment_hint">Viết bình luận…</string>
+    <string name="community_send">Gửi</string>
+    <string name="community_reply">Trả lời</string>
+    <string name="community_post_title">Bài viết</string>
+    <string name="community_content_required">Vui lòng nhập nội dung</string>
+    <string name="community_filter">Lọc theo loài</string>
+    <string name="community_author_you">Bạn</string>
+    <string name="community_posted">Đã đăng bài</string>
+    <string name="community_new_comment">Bình luận mới</string>
+    <string name="community_comments_title">Bình luận</string>
+    <string name="community_no_comments">Chưa có bình luận. Hãy viết bình luận đầu tiên!</string>
+
+    <!-- Tips -->
+    <string name="tips_title">Cẩm nang chăm sóc</string>
+    <string name="tips_search">Tìm dinh dưỡng, bệnh, chăm sóc…</string>
+    <string name="tips_all">Tất cả</string>
+    <string name="tips_empty">Không tìm thấy bài viết phù hợp.</string>
+    <string name="category_nutrition">Dinh dưỡng</string>
+    <string name="category_disease">Bệnh &amp; phòng bệnh</string>
+    <string name="category_care">Chăm sóc</string>
+    <string name="tips_read_more">Đọc bài</string>
+
+    <!-- Quiz -->
+    <string name="quiz_title">Trắc nghiệm kiến thức</string>
+    <string name="quiz_intro">Kiểm tra hiểu biết của bạn về chăm sóc thú cưng với %1$d câu hỏi ngắn.</string>
+    <string name="quiz_start">Bắt đầu</string>
+    <string name="quiz_question_of">Câu %1$d / %2$d</string>
+    <string name="quiz_next">Tiếp tục</string>
+    <string name="quiz_finish">Xem kết quả</string>
+    <string name="quiz_score">Bạn trả lời đúng %1$d / %2$d câu</string>
+    <string name="quiz_correct">Chính xác!</string>
+    <string name="quiz_wrong">Chưa đúng</string>
+    <string name="quiz_restart">Làm lại</string>
+    <string name="quiz_explanation">Giải thích</string>
+    <string name="quiz_result_excellent">Xuất sắc! Bạn là người chăm sóc thú cưng rất hiểu biết.</string>
+    <string name="quiz_result_good">Khá tốt! Ôn thêm cẩm nang để chăm sóc bé tốt hơn nhé.</string>
+    <string name="quiz_result_low">Đừng lo, đọc cẩm nang và thử lại nhé!</string>
+
+    <!-- Clinics -->
+    <string name="clinics_title">Phòng khám thú y</string>
+    <string name="clinics_hint">Danh sách tham khảo. Nhấn để gọi hoặc mở Google Maps.</string>
+    <string name="clinics_call">Gọi điện</string>
+    <string name="clinics_maps">Mở bản đồ</string>
+    <string name="clinics_hours">Giờ mở cửa</string>
+    <string name="clinics_hours_value">Giờ mở cửa: %1$s</string>
+    <string name="clinics_no_app">Không tìm thấy ứng dụng phù hợp trên thiết bị.</string>
+
+
+    <!-- More -->
+    <string name="more_title">Thêm</string>
+    <string name="more_subtitle">Công cụ, nội dung và cài đặt</string>
+    <string name="more_tips_subtitle">Dinh dưỡng, bệnh học và chăm sóc</string>
+    <string name="more_quiz_subtitle">%1$d câu hỏi ngắn</string>
+    <string name="more_clinics_subtitle">Gọi điện và chỉ đường</string>
+    <string name="more_settings_subtitle">Ngôn ngữ, nhắc nhở, hồ sơ</string>
+    <string name="more_scan_subtitle">Quét mã QR hồ sơ thú cưng</string>
+    <string name="more_section_content">Nội dung</string>
+    <string name="more_section_tools">Công cụ</string>
+    <string name="more_section_settings">Cài đặt</string>
+    <string name="more_about">Về ứng dụng</string>
+    <string name="more_version">Phiên bản %1$s</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Cài đặt</string>
+    <string name="settings_language">Ngôn ngữ</string>
+    <string name="settings_language_vi">Tiếng Việt</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_reminders">Nhắc nhở tiêm phòng</string>
+    <string name="settings_reminders_desc">Thông báo khi lịch tiêm sắp đến hạn hoặc quá hạn.</string>
+    <string name="settings_reminder_hour">Giờ nhắc hằng ngày</string>
+    <string name="settings_owner_name">Tên hiển thị</string>
+    <string name="settings_owner_name_hint">Tên dùng khi đăng bài cộng đồng</string>
+    <string name="settings_test_notification">Gửi thông báo thử</string>
+    <string name="settings_test_desc">Kiểm tra quyền thông báo trên thiết bị.</string>
+    <string name="settings_reset">Đặt lại dữ liệu demo</string>
+    <string name="settings_reset_desc">Xóa toàn bộ thú cưng, lịch tiêm, bệnh án và bài viết.</string>
+    <string name="settings_reset_confirm">Xóa toàn bộ dữ liệu và tạo lại dữ liệu demo? Hành động không thể hoàn tác.</string>
+    <string name="settings_reset_done">Đã đặt lại dữ liệu</string>
+    <string name="settings_saved">Đã lưu cài đặt</string>
+    <string name="settings_about_text">Sổ khám thú cưng giúp bạn lưu hồ sơ, lịch tiêm, bệnh án và cân nặng của thú cưng — hoạt động đầy đủ khi không có mạng. Dữ liệu được lưu cục bộ bằng Room; bài viết cộng đồng có thể đồng bộ Firebase khi cấu hình google-services.json.</string>
+    <string name="settings_about_title">Về ứng dụng</string>
+    <string name="settings_notification_unavailable">Ứng dụng chưa có quyền gửi thông báo. Hãy bật trong Cài đặt hệ thống.</string>
+    <string name="settings_notification_sent">Đã gửi thông báo thử</string>
+    <string name="settings_language_changed">Đã đổi ngôn ngữ</string>
+    <string name="settings_system_language">Theo hệ thống</string>
+    <string name="settings_section_general">Chung</string>
+    <string name="settings_section_profile">Hồ sơ chủ nuôi</string>
+    <string name="settings_section_reminders">Nhắc nhở</string>
+    <string name="settings_section_data">Dữ liệu</string>
+    <string name="settings_section_about">Thông tin ứng dụng</string>
+    <string name="settings_owner_saved">Đã lưu tên hiển thị</string>
+    <string name="settings_reminder_time_value">%1$02d:00 hằng ngày</string>
+
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Nhắc lịch thú cưng</string>
+    <string name="notification_channel_desc">Nhắc tiêm phòng, tẩy giun và lịch khám</string>
+    <string name="notification_title_pet">Nhắc lịch cho %1$s</string>
+    <string name="test_notification_title">Sổ khám thú cưng</string>
+    <string name="test_notification_body">Thông báo hoạt động tốt! Bạn sẽ được nhắc khi lịch tiêm đến hạn.</string>
+    <string name="reminder_overdue">quá hạn %1$d ngày</string>
+    <string name="reminder_today">đến hạn hôm nay</string>
+    <string name="reminder_in_days">còn %1$d ngày</string>
+    <string name="notification_permission_rationale">Bật thông báo để không bỏ lỡ lịch tiêm phòng của thú cưng.</string>
+
+    <!-- QR -->
+    <string name="qr_title">Mã QR hồ sơ</string>
+    <string name="qr_hint">Đưa mã này cho phòng khám hoặc người chăm sóc. Quét bằng camera là thấy ngay thông tin y tế cơ bản.</string>
+    <string name="qr_scan">Quét mã QR</string>
+    <string name="qr_scan_prompt">Đưa mã QR vào khung hình</string>
+    <string name="qr_invalid">Mã QR không hợp lệ hoặc không phải hồ sơ thú cưng.</string>
+    <string name="qr_not_found">Không tìm thấy hồ sơ trên thiết bị này. Thông tin từ mã:</string>
+    <string name="qr_open_profile">Mở hồ sơ</string>
+    <string name="qr_error_camera">Không thể mở camera. Hãy kiểm tra quyền truy cập.</string>
+    <string name="qr_share_title">Chia sẻ hồ sơ thú cưng</string>
+    <string name="qr_shared">Đã mở chia sẻ</string>
+    <string name="qr_pet_label">Hồ sơ thú cưng</string>
+    <string name="qr_owner_label">Chủ nuôi</string>
+    <string name="qr_phone_label">Điện thoại</string>
+    <string name="qr_vaccine_label">Tiêm phòng gần nhất</string>
+
+    <!-- Time -->
+    <string name="time_just_now">Vừa xong</string>
+    <string name="time_minutes_ago">%1$d phút trước</string>
+    <string name="time_hours_ago">%1$d giờ trước</string>
+    <string name="time_days_ago">%1$d ngày trước</string>
+</resources>

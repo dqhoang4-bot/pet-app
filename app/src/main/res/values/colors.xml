@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_teal">#1F7A6B</color>
+    <color name="brand_teal_dark">#13574C</color>
+    <color name="brand_teal_light">#DCEFE9</color>
+    <color name="brand_teal_soft">#EAF6F2</color>
+    <color name="brand_coral">#E8895B</color>
+    <color name="brand_coral_soft">#FCEBDD</color>
+    <color name="brand_amber">#F2B35C</color>
+
+    <color name="background">#FBF8F3</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F2EEE6</color>
+    <color name="text_primary">#1B2B28</color>
+    <color name="text_secondary">#6B7C78</color>
+    <color name="outline">#DDE5E2</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="status_overdue">#C0392B</color>
+    <color name="status_overdue_bg">#FBE3E0</color>
+    <color name="status_due_soon">#B7791F</color>
+    <color name="status_due_soon_bg">#FDF1D8</color>
+    <color name="status_upcoming">#1F7A6B</color>
+    <color name="status_upcoming_bg">#DCEFE9</color>
+    <color name="divider">#EDF1EF</color>
+    <color name="scrim">#66000000</color>
+    <color name="black">#000000</color>
+</resources>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pet Health Passport</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_pets">Pets</string>
+    <string name="nav_community">Community</string>
+    <string name="nav_more">More</string>
+
+    <!-- Common -->
+    <string name="common_cancel">Cancel</string>
+    <string name="common_save">Save</string>
+    <string name="common_delete">Delete</string>
+    <string name="common_edit">Edit</string>
+    <string name="common_close">Close</string>
+    <string name="common_ok">OK</string>
+    <string name="common_confirm">Confirm</string>
+    <string name="common_add">Add</string>
+    <string name="common_optional">Optional</string>
+    <string name="common_today">Today</string>
+    <string name="common_view_all">View all</string>
+    <string name="common_error_name_required">Please enter a name</string>
+    <string name="common_kg">%1$.1f kg</string>
+    <string name="select_date">Select date</string>
+    <string name="back">Back</string>
+
+    <!-- Home -->
+    <string name="home_greeting">Hello 👋</string>
+    <string name="home_subtitle">Care for your little friends together</string>
+    <string name="home_my_pets">Your pets</string>
+    <string name="home_add_pet">Add a pet</string>
+    <string name="home_upcoming_title">Upcoming schedule</string>
+    <string name="home_upcoming_subtitle">Vaccines &amp; deworming in the next 30 days</string>
+    <string name="home_upcoming_empty">Nothing due in the next 30 days. Great job!</string>
+    <string name="home_quick_actions">Tools</string>
+    <string name="home_tips">Care guide</string>
+    <string name="home_tips_sub">Nutrition &amp; disease</string>
+    <string name="home_quiz">Quiz</string>
+    <string name="home_quiz_sub">Pet care knowledge</string>
+    <string name="home_clinics">Clinics</string>
+    <string name="home_clinics_sub">Find nearby</string>
+    <string name="home_scan">Scan QR</string>
+    <string name="home_scan_sub">Pet profile</string>
+    <string name="home_empty_title">No pets yet</string>
+    <string name="home_empty_body">Add your first profile to start tracking health and vaccinations.</string>
+    <string name="home_stat_pets">Pets</string>
+    <string name="home_stat_due">Due soon</string>
+    <string name="home_stat_overdue">Overdue</string>
+
+    <!-- Pet -->
+    <string name="pet_list_title">Pets</string>
+    <string name="pet_add_title">Add a pet</string>
+    <string name="pet_edit_title">Edit profile</string>
+    <string name="pet_detail_title">Pet profile</string>
+    <string name="pets_empty_title">No profiles yet</string>
+    <string name="pets_empty_body">Add a dog, cat or other pet to manage vaccinations and health.</string>
+    <string name="pet_name">Pet name</string>
+    <string name="pet_species">Species</string>
+    <string name="pet_breed">Breed</string>
+    <string name="pet_gender">Gender</string>
+    <string name="pet_birth_date">Birth date</string>
+    <string name="pet_weight">Weight (kg)</string>
+    <string name="pet_color">Coat colour</string>
+    <string name="pet_microchip">Microchip</string>
+    <string name="pet_owner_name">Owner name</string>
+    <string name="pet_owner_phone">Phone number</string>
+    <string name="pet_notes">Notes</string>
+    <string name="pet_photo">Pet photo</string>
+    <string name="pet_save">Save profile</string>
+    <string name="pet_delete">Delete pet</string>
+    <string name="pet_delete_confirm">Delete this profile with all vaccinations, medical records and weights?</string>
+    <string name="pet_qr">QR code</string>
+    <string name="pet_share">Share</string>
+    <string name="pet_owner">Owner</string>
+    <string name="pet_info">Details</string>
+    <string name="pet_vaccination_section">Vaccines &amp; deworming</string>
+    <string name="pet_medical_section">Medical records</string>
+    <string name="pet_weight_section">Weight</string>
+    <string name="pet_no_vaccinations">No vaccinations yet</string>
+    <string name="pet_no_medical">No medical records yet</string>
+    <string name="pet_no_weights">No weight data yet</string>
+    <string name="pet_note_empty">No notes</string>
+    <string name="pet_chip_format">Microchip: %1$s</string>
+    <string name="pet_photo_pick">Choose photo</string>
+    <string name="pet_photo_remove">Remove photo</string>
+    <string name="pet_saved">Profile saved</string>
+    <string name="pet_deleted">Pet deleted</string>
+    <string name="pet_view_detail">View profile</string>
+    <string name="pet_weight_latest">Current weight</string>
+
+    <!-- Gender / age / status -->
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="species_dog">Dog</string>
+    <string name="species_cat">Cat</string>
+    <string name="species_bird">Bird</string>
+    <string name="species_rabbit">Rabbit</string>
+    <string name="species_other">Other</string>
+    <string name="age_unknown">Age unknown</string>
+    <string name="age_newborn">Under 1 month</string>
+    <string name="age_months">%1$d months old</string>
+    <string name="age_years">%1$d years old</string>
+    <string name="age_years_months">%1$d years %2$d months</string>
+    <string name="status_overdue">Overdue</string>
+    <string name="status_due_soon">Due soon</string>
+    <string name="status_upcoming">Scheduled</string>
+    <string name="status_none">No reminder</string>
+    <string name="due_overdue_days">%1$d days overdue</string>
+    <string name="due_today">Today</string>
+    <string name="due_tomorrow">Tomorrow</string>
+    <string name="due_in_days">In %1$d days</string>
+    <string name="no_due_date">No reminder date</string>
+
+    <!-- Vaccination -->
+    <string name="vaccinations_title">Vaccines &amp; deworming</string>
+    <string name="vaccination_add">Add vaccination</string>
+    <string name="vaccination_edit">Edit vaccination</string>
+    <string name="vaccination_name">Vaccine / medicine name</string>
+    <string name="vaccination_kind">Type</string>
+    <string name="kind_vaccine">Vaccine</string>
+    <string name="kind_dewormer">Dewormer</string>
+    <string name="vaccination_date">Date given</string>
+    <string name="vaccination_next_due">Next due date</string>
+    <string name="vaccination_clinic">Clinic</string>
+    <string name="vaccination_vet">Veterinarian</string>
+    <string name="vaccination_note">Notes</string>
+    <string name="vaccination_reminder">Remind me when due</string>
+    <string name="vaccination_delete">Delete vaccination</string>
+    <string name="vaccination_saved">Vaccination saved</string>
+    <string name="vaccination_deleted">Vaccination deleted</string>
+    <string name="vaccination_name_required">Please enter the vaccine name</string>
+    <string name="vaccination_due_hint">Auto: vaccine +12 months, dewormer +3 months</string>
+    <string name="vaccination_delete_confirm">Remove this vaccination from the profile?</string>
+    <string name="vaccination_preset">Suggestions</string>
+    <string name="vaccination_empty">No vaccinations yet. Add the first one so we can remind you on time.</string>
+    <string name="vaccination_reminder_off">No reminder</string>
+    <string name="vaccination_auto_due">Calculate next due automatically</string>
+
+    <!-- Medical -->
+    <string name="medical_title">Medical records</string>
+    <string name="medical_add">Add record</string>
+    <string name="medical_edit">Edit record</string>
+    <string name="medical_date">Visit date</string>
+    <string name="medical_clinic">Clinic</string>
+    <string name="medical_vet">Veterinarian</string>
+    <string name="medical_diagnosis">Diagnosis</string>
+    <string name="medical_prescription">Prescription / treatment</string>
+    <string name="medical_note">Notes</string>
+    <string name="medical_photo">Prescription photo</string>
+    <string name="medical_photo_pick">Choose prescription photo</string>
+    <string name="medical_delete">Delete record</string>
+    <string name="medical_saved">Medical record saved</string>
+    <string name="medical_deleted">Medical record deleted</string>
+    <string name="medical_diagnosis_required">Please enter a diagnosis</string>
+    <string name="medical_delete_confirm">Delete this medical record?</string>
+    <string name="medical_empty">No medical records yet. Save each visit to track your pet\'s health.</string>
+
+    <!-- Weight -->
+    <string name="weight_title">Weight</string>
+    <string name="weight_add">Add weight</string>
+    <string name="weight_value">Weight (kg)</string>
+    <string name="weight_date">Date weighed</string>
+    <string name="weight_note">Notes</string>
+    <string name="weight_saved">Weight saved</string>
+    <string name="weight_deleted">Deleted</string>
+    <string name="weight_chart_empty">Add at least two weigh-ins to see the growth chart.</string>
+    <string name="weight_latest">Latest</string>
+    <string name="weight_change">Change</string>
+    <string name="weight_delete_confirm">Delete this weigh-in?</string>
+    <string name="weight_invalid">Invalid weight</string>
+    <string name="weight_empty">No weight data yet</string>
+    <string name="weight_range">%1$.1f – %2$.1f kg</string>
+
+    <!-- Community -->
+    <string name="community_title">Community</string>
+    <string name="community_all">All</string>
+    <string name="community_write_post">New post</string>
+    <string name="community_post_hint">Share a moment or ask a question…</string>
+    <string name="community_publish">Post</string>
+    <string name="community_empty">No posts yet. Be the first to share!</string>
+    <string name="community_likes">%1$d likes</string>
+    <string name="community_comments">%1$d comments</string>
+    <string name="community_offline">Using offline data</string>
+    <string name="community_cloud">Firebase connected</string>
+    <string name="community_pending">Waiting to sync</string>
+    <string name="community_delete_confirm">Delete this post?</string>
+    <string name="community_tag">Topic</string>
+    <string name="community_pet_name">Pet name</string>
+    <string name="community_image">Attached photo</string>
+    <string name="community_pick_image">Choose photo</string>
+    <string name="community_comment_hint">Write a comment…</string>
+    <string name="community_send">Send</string>
+    <string name="community_reply">Reply</string>
+    <string name="community_post_title">Post</string>
+    <string name="community_content_required">Please enter some content</string>
+    <string name="community_filter">Filter by species</string>
+    <string name="community_author_you">You</string>
+    <string name="community_posted">Posted</string>
+    <string name="community_new_comment">New comment</string>
+    <string name="community_comments_title">Comments</string>
+    <string name="community_no_comments">No comments yet. Be the first to comment!</string>
+
+    <!-- Tips -->
+    <string name="tips_title">Care guide</string>
+    <string name="tips_search">Search nutrition, disease, care…</string>
+    <string name="tips_all">All</string>
+    <string name="tips_empty">No matching articles.</string>
+    <string name="category_nutrition">Nutrition</string>
+    <string name="category_disease">Disease &amp; prevention</string>
+    <string name="category_care">Care</string>
+    <string name="tips_read_more">Read article</string>
+
+    <!-- Quiz -->
+    <string name="quiz_title">Care knowledge quiz</string>
+    <string name="quiz_intro">Test your pet care knowledge with %1$d quick questions.</string>
+    <string name="quiz_start">Start</string>
+    <string name="quiz_question_of">Question %1$d / %2$d</string>
+    <string name="quiz_next">Continue</string>
+    <string name="quiz_finish">See result</string>
+    <string name="quiz_score">You answered %1$d / %2$d correctly</string>
+    <string name="quiz_correct">Correct!</string>
+    <string name="quiz_wrong">Not quite</string>
+    <string name="quiz_restart">Try again</string>
+    <string name="quiz_explanation">Explanation</string>
+    <string name="quiz_result_excellent">Excellent! You really know your pet care.</string>
+    <string name="quiz_result_good">Pretty good! Read the care guide to improve even more.</string>
+    <string name="quiz_result_low">Don\'t worry — read the guide and try again!</string>
+
+    <!-- Clinics -->
+    <string name="clinics_title">Veterinary clinics</string>
+    <string name="clinics_hint">Reference list. Tap to call or open Google Maps.</string>
+    <string name="clinics_call">Call</string>
+    <string name="clinics_maps">Open map</string>
+    <string name="clinics_hours">Opening hours</string>
+    <string name="clinics_hours_value">Opening hours: %1$s</string>
+    <string name="clinics_no_app">No compatible app found on this device.</string>
+
+
+    <!-- More -->
+    <string name="more_title">More</string>
+    <string name="more_subtitle">Tools, content and settings</string>
+    <string name="more_tips_subtitle">Nutrition, disease and care</string>
+    <string name="more_quiz_subtitle">%1$d quick questions</string>
+    <string name="more_clinics_subtitle">Call and get directions</string>
+    <string name="more_settings_subtitle">Language, reminders, profile</string>
+    <string name="more_scan_subtitle">Scan a pet QR profile</string>
+    <string name="more_section_content">Content</string>
+    <string name="more_section_tools">Tools</string>
+    <string name="more_section_settings">Settings</string>
+    <string name="more_about">About</string>
+    <string name="more_version">Version %1$s</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_language_vi">Tiếng Việt</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_reminders">Vaccination reminders</string>
+    <string name="settings_reminders_desc">Notify when vaccinations are due soon or overdue.</string>
+    <string name="settings_reminder_hour">Daily reminder time</string>
+    <string name="settings_owner_name">Display name</string>
+    <string name="settings_owner_name_hint">Used when posting to the community</string>
+    <string name="settings_test_notification">Send a test notification</string>
+    <string name="settings_test_desc">Check notification permission on this device.</string>
+    <string name="settings_reset">Reset demo data</string>
+    <string name="settings_reset_desc">Delete all pets, vaccinations, records and posts.</string>
+    <string name="settings_reset_confirm">Delete all data and recreate the demo content? This cannot be undone.</string>
+    <string name="settings_reset_done">Data has been reset</string>
+    <string name="settings_saved">Settings saved</string>
+    <string name="settings_about_text">Pet Health Passport keeps your pet profiles, vaccinations, medical records and weight history — fully usable offline. Data is stored locally with Room; community posts can sync to Firebase when google-services.json is configured.</string>
+    <string name="settings_about_title">About</string>
+    <string name="settings_notification_unavailable">The app does not have notification permission. Enable it in system settings.</string>
+    <string name="settings_notification_sent">Test notification sent</string>
+    <string name="settings_language_changed">Language changed</string>
+    <string name="settings_system_language">Follow system</string>
+    <string name="settings_section_general">General</string>
+    <string name="settings_section_profile">Owner profile</string>
+    <string name="settings_section_reminders">Reminders</string>
+    <string name="settings_section_data">Data</string>
+    <string name="settings_section_about">About this app</string>
+    <string name="settings_owner_saved">Display name saved</string>
+    <string name="settings_reminder_time_value">%1$02d:00 daily</string>
+
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Pet reminders</string>
+    <string name="notification_channel_desc">Vaccination, deworming and visit reminders</string>
+    <string name="notification_title_pet">Reminder for %1$s</string>
+    <string name="test_notification_title">Pet Health Passport</string>
+    <string name="test_notification_body">Notifications work! You will be reminded when vaccinations are due.</string>
+    <string name="reminder_overdue">%1$d days overdue</string>
+    <string name="reminder_today">due today</string>
+    <string name="reminder_in_days">due in %1$d days</string>
+    <string name="notification_permission_rationale">Enable notifications so you never miss a vaccination.</string>
+
+    <!-- QR -->
+    <string name="qr_title">Profile QR code</string>
+    <string name="qr_hint">Show this code to a clinic or caregiver. Any phone can scan it to read the basic medical profile — no app or internet required.</string>
+    <string name="qr_scan">Scan QR code</string>
+    <string name="qr_scan_prompt">Place the QR code inside the frame</string>
+    <string name="qr_invalid">This QR code is not a valid pet profile.</string>
+    <string name="qr_not_found">Profile not found on this device. Information from the code:</string>
+    <string name="qr_open_profile">Open profile</string>
+    <string name="qr_error_camera">Could not open the camera. Please check camera permission.</string>
+    <string name="qr_share_title">Share pet profile</string>
+    <string name="qr_shared">Share sheet opened</string>
+    <string name="qr_pet_label">Pet profile</string>
+    <string name="qr_owner_label">Owner</string>
+    <string name="qr_phone_label">Phone</string>
+    <string name="qr_vaccine_label">Latest vaccination</string>
+
+    <!-- Time -->
+    <string name="time_just_now">Just now</string>
+    <string name="time_minutes_ago">%1$d minutes ago</string>
+    <string name="time_hours_ago">%1$d hours ago</string>
+    <string name="time_days_ago">%1$d days ago</string>
+</resources>
